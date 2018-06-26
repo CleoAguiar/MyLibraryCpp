@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530037287 source:c:\users\cleo\documents\codeblocks\string inversa\main.cpp
+	<iostream>
+	<stdio.h>
+
